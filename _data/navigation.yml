@@ -1,4 +1,4 @@
-- name: Pricing
+- name: 价格
   link: /pricing/
   new_window: false
   highlight: false
@@ -6,19 +6,19 @@
 #   link: /blog/
 #   new_window: false
 #   highlight: false
-- name: About
+- name: 关于我们
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: 联系我们
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: 登陆
   link: /contact
   new_window: true
   highlight: false
-- name: Sign Up
+- name: 注册
   link: /contact
   new_window: true
   highlight: true
