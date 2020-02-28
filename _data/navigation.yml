@@ -15,7 +15,7 @@
   new_window: false
   highlight: false
 - name: 登陆
-  link: http://app.visionogy.com/
+  link: http://appd.visionogy.com/
   new_window: true
   highlight: false
 - name: 注册
