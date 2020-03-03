@@ -9,7 +9,7 @@
     link: /contact/
 - links:
   - name: 登陆
-    link: http://appd.visionogy.com/
+    link: https://appd.visionogy.com/
     new_window: true
   - name: 注册
     link: /contact
